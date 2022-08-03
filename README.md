@@ -2,7 +2,8 @@
 Projeto realizado para revisão de alguns conceitos de JavaScript, HTML e CSS
 Elaboração de uma urna com todas as funcionalidades de uma urna real.
 
-
+ 
+ 
 <p align="center">
   <img src="./images/urna2.png" width="400" title="2 text">
    <img src="./images/urna3.png" width="400" title="3 text">
